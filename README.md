@@ -24,7 +24,7 @@ This system allows users to **register complaints**, track their status, and ena
 
 
 ## 🗂️ Project Structure
-
+```
 Complaint-Management-System/
 │
 ├── css/                # Stylesheets
